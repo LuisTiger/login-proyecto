@@ -1,0 +1,5 @@
+branch-defaults:
+  main:
+    environment: backend-env
+global:
+  profile: eb-cli
